@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-03-29 17:44+0100\n"
+"PO-Revision-Date: 2018-03-29 17:44+0100\n"
+"Last-Translator: MeksHQ <support@mekshq.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../meks-easy-maps.php:63
+msgid "Settings"
+msgstr ""
+
+#: ../admin/category-metabox-map.php:69 ../admin/category-metabox-map.php:117
+msgid "Location"
+msgstr ""
+
+#: ../admin/category-metabox-map.php:71 ../admin/category-metabox-map.php:119
+#: ../admin/post-metabox-map.php:76
+msgid "Enter your address/city or drag marker on map"
+msgstr ""
+
+#: ../admin/category-metabox-map.php:74 ../admin/category-metabox-map.php:123
+#: ../admin/post-metabox-map.php:80
+#, php-format
+msgid ""
+"Google Maps API key is required to display the map. Please provide your API "
+"key in the <a href=\"%s\">plugin settings</a>"
+msgstr ""
+
+#: ../admin/category-metabox-map.php:81 ../admin/category-metabox-map.php:130
+#: ../admin/post-metabox-map.php:87
+msgid "Zoom level"
+msgstr ""
+
+#: ../admin/category-metabox-map.php:87 ../admin/category-metabox-map.php:137
+#: ../admin/post-metabox-map.php:94
+msgid "Enable street view on map"
+msgstr ""
+
+#: ../admin/category-metabox-map.php:114
+msgid "Map"
+msgstr ""
+
+#: ../admin/post-metabox-map.php:20
+msgid "Post Location"
+msgstr ""
+
+#: ../admin/settings-page.php:116 ../admin/settings-page.php:117
+msgid "Meks Easy Maps"
+msgstr ""
+
+#: ../admin/settings-page.php:206
+msgid "Need more features?"
+msgstr ""
+
+#: ../admin/settings-page.php:266
+#, php-format
+msgid ""
+"How do I get my <a target=\"_blank\" href=\"%s\">Google Maps API key</a>?"
+msgstr ""
+
+#: ../admin/settings-page.php:274 ../admin/settings-page.php:286
+#: ../admin/settings-page.php:308
+msgid "On"
+msgstr ""
+
+#: ../admin/settings-page.php:276 ../admin/settings-page.php:288
+#: ../admin/settings-page.php:310
+msgid "Off"
+msgstr ""
+
+#: ../admin/settings-page.php:348
+msgid "Location above the content"
+msgstr ""
+
+#: ../admin/settings-page.php:354
+msgid "Location below the content"
+msgstr ""
+
+#: ../admin/settings-page.php:360 ../admin/settings-page.php:385
+msgid "Nothing"
+msgstr ""
+
+#: ../admin/settings-page.php:373
+msgid "All category posts with a location set"
+msgstr ""
+
+#: ../admin/settings-page.php:379
+msgid "Category location"
+msgstr ""
+
+#: ../admin/settings-page.php:396
+#, php-format
+msgid ""
+"For more styling options and features, please check our <a target=\"_blank\" "
+"href=\"%s\">Trawell WordPress theme</a>."
+msgstr ""
+
+#: ../public/map.php:174
+msgid "Something went wrong, reload and check the plugin settings."
+msgstr ""
+
+#: ../public/map.php:178
+#, php-format
+msgid ""
+"Google Maps API key is required to display the map. Please provide your API "
+"key in the <a href=\"%s\">plugin settings</a>."
+msgstr ""
+
+#: ../public/map.php:182
+msgid ""
+"In order to see the map you need to have at least one post with a location."
+msgstr ""

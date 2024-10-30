@@ -1,0 +1,63 @@
+#mks_map_metabox_id {
+    position: static;
+    min-width: 100% !important;
+}
+
+.block-editor-page .edit-post-meta-boxes-area #mks_map_metabox_id.postbox > .inside {
+    padding: 0 14px 14px !important;
+}
+
+.edit-post-meta-boxes-area  #mks_map_metabox_id .inside {
+    box-sizing: border-box !important;
+}
+
+#mks_map_metabox_id li, 
+.form-field .dropdown-menu li {
+    padding: 3px 20px;
+    margin: 0;
+}
+
+#mks_map_metabox_id li:hover,
+.form-field .dropdown-menu li:hover {
+    background: #d8dada;
+    border-color: #d8dada;
+}
+
+#mks_map_metabox_id .geocoder-control-selected,
+.form-field .dropdown-menu .geocoder-control-selected {
+    background: #d8dada;
+    border-color: #d8dada;
+}
+
+#mks_map_metabox_id ul li,
+.form-field ul li  {
+    list-style-type: none;
+}
+
+.meks-map-button-secondary,
+.meks-map-button-geocode {
+    position: relative;
+    top: 2px;
+}
+
+.mks-cat-label-options {
+    width: 48%;
+    float: left;
+    
+}
+
+.mks-cat-label-options {
+    display: flex;
+    width: 100%;
+    margin-bottom: 10px;
+    align-items: flex-end;
+}
+
+.mks-cat-label-options button {
+    position: static;
+}
+
+.mks-space {
+    display: inline-block;
+    margin-top: 5px;
+}
